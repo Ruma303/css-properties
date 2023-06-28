@@ -17,7 +17,10 @@
     min-height: 100px;
     max-height: 300px;
     width: calc(80% - 10px);
-} */
+}
+*/
+
+
 /* position: absolute;
 left: calc(50% - 50px); */
 
@@ -34,8 +37,20 @@ left: calc(50% - 50px); */
 /* article {
     padding: 0 4rem;
     text-align: justify;
+}
+ */
+
+/* #container {
+    width: 300px;
+    border: solid 1px red;
 } */
 
+
+h2 {
+    /* word-break: break-all; */
+    /* overflow-wrap: break-word; */
+    /* overflow: scroll; */
+}
 
 /* p {
     font-family: "Roboto", "Arial", sans-serif;
@@ -44,15 +59,17 @@ left: calc(50% - 50px); */
     font-style: oblique;
     font-variant: small-caps;
     line-height: normal;
+
     letter-spacing: 2.1cqb;
     word-spacing: 2cqi;
     text-transform: capitalize;
 } */
 
-p span {
+/* p span {
     font: italic bold 16px/1.5 Arial, sans-serif;
     font-size: calc(1.5 * 1em);
-}
+    vertical-align: sub;
+} */
 
 /*
 p span {

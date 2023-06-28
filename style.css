@@ -16,8 +16,11 @@
     max-width: 500px;
     min-height: 100px;
     max-height: 300px;
-}
- */
+    width: calc(80% - 10px);
+} */
+/* position: absolute;
+left: calc(50% - 50px); */
+
 /* Colori */
 /* #colored {
     color:blue;
@@ -27,6 +30,12 @@
     color: hsl(23, 50%, 40%);
     color: hsla(0, 100%, 70%, 30);
 } */
+
+/* article {
+    padding: 0 4rem;
+    text-align: justify;
+} */
+
 
 /* p {
     font-family: "Roboto", "Arial", sans-serif;
@@ -40,9 +49,10 @@
     text-transform: capitalize;
 } */
 
-/* p span {
+p span {
     font: italic bold 16px/1.5 Arial, sans-serif;
-} */
+    font-size: calc(1.5 * 1em);
+}
 
 /*
 p span {

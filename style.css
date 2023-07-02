@@ -8,7 +8,7 @@
 /* display: none; */
 
 /* Dimensioni */
-/* #rectangle {
+/*  #rectangle {
     background-color: red;
     width: 300px;
     height: 200px;
@@ -17,8 +17,8 @@
     min-height: 100px;
     max-height: 300px;
     width: calc(80% - 10px);
-}
-*/
+    aspect-ratio: 16/9;
+} */
 
 
 /* position: absolute;
